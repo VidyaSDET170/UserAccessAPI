@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UserAPISuite" parallel="false">
+
+    <test name="Create User Tests">
+        <classes>
+            <class name="testNg.CreateUserTests"/>
+        </classes>
+    </test>
+
+    <test name="Get User Tests">
+        <classes>
+            <class name="testNg.GetUserTests"/>
+        </classes>
+    </test>
+
+    <test name="Update User Tests">
+        <classes>
+            <class name="testNg.UpdateUserTests"/>
+        </classes>
+    </test>
+
+    <test name="Delete User Tests">
+        <classes>
+            <class name="testNg.DeleteUserTests"/>
+        </classes>
+    </test>
+
+</suite>

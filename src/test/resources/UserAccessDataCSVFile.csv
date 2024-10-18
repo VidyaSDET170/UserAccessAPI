@@ -1,0 +1,5 @@
+user_first_name,user_last_name,user_contact_number,user_email_id,plotNumber,street,state,country,zipCode
+"""VidFirstName""","""One""",9000123456,"""A9000123456@gmail.com""","""12-bc""","""New Street""","""Texas""","""USA""",71234
+"""VidFirstName""","""Two""",9000123457,"""A9000123457@gmail.com""","""12-bc""","""New Street""","""Texas""","""USA""",71234
+"""VidFirstName""","""Three""",9000123458,"""A9000123458@gmail.com""","""12-bc""","""New Street""","""Texas""","""USA""",71234
+"""VidFirstName""","""Four""",9000123459,"""A9000123459@gmail.com""","""12-bc""","""New Street""","""Texas""","""USA""",71234
